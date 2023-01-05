@@ -1,2 +1,1 @@
-# Repa
-fifgfuh
+Homework for stepik
